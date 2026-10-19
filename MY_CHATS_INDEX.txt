@@ -1,0 +1,305 @@
+YOUR CLAUDE CODE CHATS - 74 sessions
+All files live in: /Users/moosaali/.claude/projects/
+To open one:  claude --resume <SESSION-ID>
+To open a list:  claude --resume      (or type /resume inside Claude Code)
+IMPORTANT: chats are per-folder. cd to the folder first.
+==============================================================================================================
+
+2026-09-28 09:00  |  1 turns  |  folder: -Users-moosaali
+  id: de04ed32-372c-4ea9-9062-43562ad7ba5f
+  you said: Reply only: OK
+
+2026-09-28 09:00  |  1 turns  |  folder: -Users-moosaali
+  id: 7fa306c6-ac9e-4aa0-a71f-451c3e15e80f
+  you said: Reply only: OK
+
+2026-09-28 09:00  |  1 turns  |  folder: -Users-moosaali
+  id: cd611b04-2eb3-4af4-acae-6d7d8fee3bb7
+  you said: Reply only: OK
+
+2026-09-28 08:59  |  1 turns  |  folder: -Users-moosaali
+  id: 7adfa8ae-6923-48f1-be33-bd41345b1291
+  you said: Reply only: OK
+
+2026-09-28 08:59  |  1 turns  |  folder: -Users-moosaali
+  id: 5e7f33cb-893c-485f-9f97-aaa526f9af5e
+  you said: Reply only: OK
+
+2026-09-28 08:59  |  1 turns  |  folder: -Users-moosaali
+  id: 2a655cf8-05ba-4e85-a003-8a23b2cad2da
+  you said: Reply only: OK
+
+2026-09-28 08:59  |  1 turns  |  folder: -Users-moosaali
+  id: bb0ec122-e49d-46d2-851a-c7d4d054dc7b
+  you said: Reply only: OK
+
+2026-09-28 08:16  |  1 turns  |  folder: -Users-moosaali
+  id: ec37f40e-5f39-4c3e-a782-ff85be2c76ee
+  you said: Reply with only: WORKS
+
+2026-09-28 08:16  |  1 turns  |  folder: -Users-moosaali
+  id: 02c6e001-92a9-4b10-a6f6-24255bcc8202
+  you said: Reply with only: WORKS
+
+2026-09-28 08:15  |  1 turns  |  folder: -Users-moosaali
+  id: 047d4c3c-d669-47b8-b491-8da91bbf135d
+  you said: Reply with only: WORKS
+
+2026-09-28 08:15  |  1 turns  |  folder: -Users-moosaali
+  id: 94455481-8968-4d8e-81e2-8cf5acc11729
+  you said: Reply with only: WORKS
+
+2026-09-28 08:15  |  1 turns  |  folder: -Users-moosaali
+  id: 3056b2e7-f689-405c-8ff9-7dc3554aa2e2
+  you said: Reply with only: WORKS
+
+2026-09-28 07:29  |  1 turns  |  folder: -Users-moosaali
+  id: 99669b8e-2778-455d-a16a-21ea5cda1e31
+  you said: Reply with only the word: NEWDEFAULT
+
+2026-09-28 07:29  |  1 turns  |  folder: -Users-moosaali
+  id: e487d05d-cff3-43e8-a9f4-e3108b241994
+  you said: Reply with only the word: DEFAULTOK
+
+2026-09-28 07:28  |  1 turns  |  folder: -Users-moosaali
+  id: 5d8e8e9f-5d15-4ab2-9c35-475f8a017f7e
+  you said: Reply with only the word: COMBOOK
+
+2026-09-28 07:03  |  1 turns  |  folder: -private-tmp
+  id: 5c7ecf2b-791c-41f3-ae1d-18fc99dc8315
+  you said: reply with exactly: ALL-GOOD
+
+2026-09-28 06:55  |  1 turns  |  folder: -private-tmp
+  id: c583df62-e394-4f60-b2cf-4ca35aff33ad
+  you said: reply with exactly: MIX-OK
+
+2026-09-28 06:55  |  1 turns  |  folder: -private-tmp
+  id: 0a86e674-89e5-4de2-bce5-47354e47a9ad
+  you said: reply with exactly: OPUS-CHAIN-OK
+
+2026-09-28 06:54  |  1 turns  |  folder: -private-tmp
+  id: 69156671-cf60-4170-9fd8-91b65eb42bd9
+  you said: reply with exactly: COMBO-OK
+
+2026-09-28 06:28  |  1 turns  |  folder: -private-tmp
+  id: 53ec562a-1f9c-4768-9261-615f184fa6c1
+  you said: reply with exactly: PAID-PATH-TEST
+
+2026-09-28 06:27  |  1 turns  |  folder: -private-tmp
+  id: 55de099f-9019-4089-ba5a-bebb4e548415
+  you said: reply with exactly: ROUTER-OK
+
+2026-09-28 05:45  |  3 turns  |  folder: ~/ai-setup
+  id: 6cd6af45-aa09-4646-8188-48347df01349
+  you said: hi
+
+2026-09-28 02:15  |  8 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 22b34f26-e6fd-4c5e-b3a6-1d5dd186005b
+  you said: I remember i have created multiple local in my system but today when I came to yousf one of them and opencode I seen multiple LLM and nothing has been
+
+2026-09-28 02:12  |  5 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: e26d8352-7770-4c4d-a65a-6cc58cbc5901
+  you said: See, I wanna create a tool or you can say a skill for something I will be mentioning below, but my question to you right now is how I'm going to be pr
+
+2026-09-27 17:39  |  2 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: c57b1ed3-efce-4fbf-b119-7071108ed5d3
+  you said: po: both import lc  -tagoor -sugar   shipping
+
+2026-09-27 15:03  |  1 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 49e59470-744e-4603-8ba1-62863afd2f0b
+  you said: i wanna create an artifact which shows my product from alwajer (dexlansoprazole) will go to my client in pakistan (ferozsons) and then it return as a 
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered product lis
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Procurement/HS-code intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered produ
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered product lis
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Procurement/HS-code intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered produ
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered product lis
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Procurement/HS-code intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered produ
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered product lis
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Procurement/HS-code intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered produ
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered product lis
+
+2026-09-26 23:33  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Procurement/HS-code intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), scaling a proven pilot pattern to more of their NPI-registered produ
+
+2026-09-26 17:18  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: You're doing export-market intelligence for Al Wajer Pharmaceutical Industry LLC (Oman), a generic pharma manufacturer. For a pilot batch of 15 regist
+
+2026-09-26 17:18  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/229a6400-7877-4907-84e7-3d7f1e9057f3/subagents
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: You're doing supply-chain/procurement intelligence for Al Wajer Pharmaceutical Industry LLC (Oman). They have a registered product list (NPI-registere
+
+2026-09-26 16:27  |  8 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 229a6400-7877-4907-84e7-3d7f1e9057f3
+  you said: Go check it in my servers in MCpO maybe it is there because I remember I stopped by myself just reduce talking generation so before doing something th
+
+2026-09-26 09:17  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/f6107369-20ea-4b4c-a591-d64c48e93717/subagents
+  id: f6107369-20ea-4b4c-a591-d64c48e93717
+  you said: I'm building a GitHub repo that functions as a Claude Code plugin marketplace, containing multiple skills (each already exists as a folder with a SKIL
+
+2026-09-26 08:57  |  8 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: f6107369-20ea-4b4c-a591-d64c48e93717
+  you said: i wanna /skill-creator for all these skills aand mcps and setup in a github repostory and then from the repostry i can do it in claude and hermes and 
+
+2026-09-26 05:42  |  20 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 3060af21-0a02-4950-b73e-9a3a263020c8
+  you said: In /Users/moosaali/.claude/settings.json, the mcpServers.brain and mcpServers.hermes entries embed BRAIN_KEY (a Supabase service_role JWT for project 
+
+2026-09-26 05:26  |  5 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 50c399a5-fc6b-4b3b-8e15-635b9d465fdc
+  you said: Clear the cache and old omniroute backups
+
+2026-09-25 01:43  |  7 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 52a6d687-24b3-484a-927a-b44c197fe84e
+  you said: I'm not satisfied with my current token usage and most of the platforms that I'm using either open web UI as well as hermes  and  opencode so I believ
+
+2026-09-25 01:43  |  4 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: cf763d65-35dc-4ef1-8a15-268d3b32c96f
+  you said: I'm not satisfied with my current token usage and most of the platforms that I'm using either open web UI as well as hermes  and  opencode so I believ
+
+2026-09-24 21:13  |  1 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 44738bca-5f2e-4f6d-9eb5-0471202309cf
+  you said: I have downloaded the locals in my iPad as well as in my laptop I have brought mlx modules an M3 version out of it. I want you to cross verified. Also
+
+2026-09-24 06:35  |  1 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 08cb195d-a0cd-48c3-89c4-32675d55854f
+  you said: claude remote-control Run the AGENTS.md pre-run checks for TurboFieldfare: report macOS version, `swift --version`, free disk, `memory_pressure -Q`, w
+
+2026-09-24 02:13  |  1 turns  |  folder: -Users-moosaali
+  id: 485baba4-b244-4df6-9984-44be84d8c9bd
+  you said: I do have my system set up and I would like you to access it and to read my memory and to be linked to it so can you check my local claude desktop or 
+
+2026-09-23 23:49  |  4 turns  |  folder: -Users-moosaali
+  id: 2a87d3bf-34b6-4d39-b2a7-4af252168a65
+  you said: what are all the errors i have in my claude code
+
+2026-09-22 01:05  |  21 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 6962cdf5-b430-4e8c-8ddc-3ba252c27650
+  you said: i was setting up few things in my systems yesterday and i was using openwebui will setting but now i can see its not running , also i wanna know in my
+
+2026-09-21 00:08  |  4 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 121803d3-ea8d-431b-ac35-1023b0b64b01
+  you said: dorzolamod , latanoprost,olopatadine hydrocloride
+
+2026-09-20 19:00  |  8 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 2c9d97ed-70f1-474e-8a4c-b10d849f8bd1
+  you said: It seems like during these days my talking generation is getting too high and I'm not able to control it as well as I'm not able to feed it therefore 
+
+2026-09-20 12:36  |  9 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 60400517-7efb-47b9-a342-b096a7fde74b
+  you said: I need you to complete the process of this as well as enhanced fix it and keep it workable for good I have started with opencode but i prefer to do it
+
+2026-09-20 02:49  |  9 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 25af2fa0-f80b-40b2-8a7e-53ac7ce60890
+  you said: The app was quit while you were working. Please continue from where you left off.
+
+2026-09-19 22:41  |  7 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 598d00c5-e15a-4afd-b67f-f0f4f14d7f48
+  you said: I have two things first I can see as soon as I opened my laptop I found puter todo in my terminal opened therefore okay but what is it? It's supposed 
+
+2026-09-18 21:20  |  29 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 2b2aa84a-8637-4a25-a5c7-b07a33f105a8
+  you said: # Install (if not done already): curl -s claude.ai/install.sh | bash  # Run the prompt: claude "You are my DevOps engineer..." (claude "You are my Dev
+
+2026-09-18 15:49  |  7 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 60432817-cd30-4acf-a423-ffb62309fae6
+  you said: i wanna know which modules i have locally and why are they not running in dsh ?
+
+2026-09-18 10:36  |  5 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: b09ea7c8-4011-46bb-9f37-d77647404772
+  you said: Now do me one thing tell me how strong is this which you are giving to me and how are you going to mirror? My MCP's means hook my MCP is on my memory 
+
+2026-09-18 06:36  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/9cc2bc10-31fc-4bbf-baf0-49a6d1d00d74/subagents
+  id: 9cc2bc10-31fc-4bbf-baf0-49a6d1d00d74
+  you said: You have Bash tool access on a Mac. There is SSH access already configured to a remote server: run commands via   ssh -i ~/.ssh/ollama_server_key herm
+
+2026-09-17 23:42  |  39 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 9cc2bc10-31fc-4bbf-baf0-49a6d1d00d74
+  you said: I want to create a skill which will be like a database or a research tools which will be researching for me inside github and reddit and firecrawl in 
+
+2026-09-17 21:27  |  1 turns  |  folder: ~/Desktop-Claude-Work-files/9a159767-225c-4901-91f2-fb1f73d094ae/subagents
+  id: 9a159767-225c-4901-91f2-fb1f73d094ae
+  you said: Migrate the folder `~/Documents/Moosa business` (275MB, ~1156 files: markdown notes, pharma formulation/costing sheets, HS-code trade data, GMP facili
+
+2026-09-17 18:46  |  31 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 9a159767-225c-4901-91f2-fb1f73d094ae
+  you said: # CLAUDE CODE PROMPT — PHASE 0 v2: FULL ESTATE AUDIT (READ-ONLY)  ## OBJECTIVE Capture everything that exists across Moosa's estate: every machine, to
+
+2026-09-17 02:06  |  4 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 7e88d2ad-8a5f-484e-9424-822742530116
+  you said: @"/Users/moosaali/Desktop/Claude_Work/exim_mcp_server.py" @"/Users/moosaali/Desktop/Claude_Work/README_exim_agent.md" @"/Users/moosaali/Desktop/Claude
+
+2026-09-16 08:17  |  12 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: a3ae176c-1dc7-40f1-a7ec-0f083a9e536a
+  you said: I don't know what's wrong with my DSH is not getting on and I want you to see what is wrong with it and keep it opened in my laptop
+
+2026-09-15 23:55  |  3 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: aa507764-f529-4a01-9a86-74c70cd03d27
+  you said: I'm getting charged by Alibaba lounge and I would like to close all my API and I would like to delete everything but I could not, but I wanna know why
+
+2026-09-15 21:39  |  26 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: 54b310f8-495f-45ee-820e-db5f57b36614
+  you said: I'm using open web UI and I'm finding it very much difficult because whenever I'm replying or I'm whenever I'm chatting with it it gives me a multiple
+
+2026-09-14 23:05  |  2 turns  |  folder: ~/Desktop-Claude-Work-files
+  id: a2a9f161-c4bf-4736-a896-aec2898a93a1
+  you said: I have done this zip file and all these banners and sticker wall as well as my business card and and everything in this files which I'm going to be sh
+
+2026-09-14 03:04  |  5 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-11-23dd36
+  id: 5e06d033-4e45-4727-9c06-afced04e1843
+  you said: can u run this again and check everything and i dont want you to fail doing anything if anything stack please let me to fix it
+
+2026-09-13 16:23  |  43 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-12-8de189
+  id: bbf04a34-3aa0-4118-a78a-4c97a24a56aa
+  you said: Now do me one thing first of all I wanna know what is going on my set up in this laptop I can see that this file is not going to my claude Work and I'
+
+2026-09-12 10:04  |  1 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-12-39d2df
+  id: a32506a5-7225-4aca-ab40-77bfd4ac7eba
+  you said: do ur best
+
+2026-09-12 02:05  |  4 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-11-927f52
+  id: 9e301928-c43d-49cb-8fc6-13dc5f7bc73b
+  you said: ssh into the Hermes VPS and chase the 404
+
+2026-09-12 02:05  |  5 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-11-927f52
+  id: c57e7eda-c62c-429b-a7c4-2ee57b9ff052
+  you said: ssh into the Hermes VPS and chase the 404
+
+2026-09-11 04:41  |  6 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-11-ccc748
+  id: af9dc716-d996-4b6e-baf4-8b35c3889ba0
+  you said: also are u able to use MO-Soup repo?
+
+2026-09-09 23:46  |  7 turns  |  folder: ~/Library-Application-Support-Claude-scratch-workspaces-22830785-001c-4e8b-b06e-520ed6e8c00d-e0213dca-e246-445d-a618-922bc4806fab-scratch-2026-09-09-31f9ff
+  id: 2267f9e9-8492-4713-99fd-66f5469a666c
+  you said: Try again
+
+==============================================================================================================
+TOTAL: 74 chat sessions, 0 lost

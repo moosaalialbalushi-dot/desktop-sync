@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:claude.ai)",
+      "mcp__obscura__browser_navigate",
+      "mcp__obscura__browser_snapshot",
+      "mcp__brain__search_memory",
+      "mcp__exim__exim_market"
+    ]
+  }
+}
