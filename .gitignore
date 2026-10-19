@@ -1,8 +1,25 @@
-.DS_Store
-*.log
-Screen Recording*.mov
+# Credentials & Keys
+*.key
+*.pem
+*.env
+*_KEY*
+*API*KEY*
+NOTION_API_KEY*
+
+# Business Data
+CPHI_Milan_2026_Leads.xlsx
+CRM_IMPORT_FINAL.json
+Claude_Work/files/*.xlsx
+Claude_Work/files/*.pdf
+
+# Large Files
+Screen Recording*
+*.mp4
+*.mov
 Deep-Live-Cam-fast/
+
+# System
+.DS_Store
+Thumbs.db
 node_modules/
 __pycache__/
-*.pyc
-.env
