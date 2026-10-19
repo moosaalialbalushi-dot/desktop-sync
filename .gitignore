@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+Screen Recording*.mov
+Deep-Live-Cam-fast/
+node_modules/
+__pycache__/
+*.pyc
+.env
